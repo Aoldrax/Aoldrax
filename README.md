@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aoldrax
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP and Python
 - 💞️ I’m looking to collaborate on everwhere
 - 📫 How to reach me in my email: viniciusmelise@hotmail.com
 
