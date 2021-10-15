@@ -4,6 +4,7 @@ English:
 - 🌱 I’m currently learning PHP, Python and Javascript
 - 💞️ I’m looking to collaborate on everwhere
 - 📫 How to reach me in my email: viniciusmelise30@gmail.com
+
 Português
 - 👋 Olá, sou @Aoldrax ou Vinicius Melise
 - 👀 Estou interessado em programação
